@@ -1,8 +1,7 @@
 # fibonacci
 <h2>INTRODUCTION</h2>
 <p> This repository is about Fibonacci series in Java </p>
-<allign = center> "EASY TO USE"</allign>
-## Installation
+<br>------------------------------------------------------------------------------------------------------------</br>
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
